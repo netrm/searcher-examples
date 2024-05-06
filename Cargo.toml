@@ -1,7 +1,7 @@
 [workspace]
 members = [
-    "backrun",
-    "cli",
+    #"backrun",
+    #"cli",
     "jito_protos",
     "searcher_client",
 ]
